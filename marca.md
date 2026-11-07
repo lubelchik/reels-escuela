@@ -176,5 +176,5 @@ EXPORTAR ...... sin marca de agua
 
 1. ~~¿Una pieza de 60 s o dos de ~50 s?~~ **Resuelto: una pieza de 60 s.**
 2. ~~¿Cuenta oficial o proyecto estudiantil?~~ **Resuelto: cuenta oficial de la escuela.** Tono institucional y sobrio en título y cierre; firma como «Esc. N.º 4-012 Ing. Ricardo Videla»; visto bueno del equipo directivo antes de publicar; descripción con vía de ayuda y sin nombres de estudiantes.
-3. Fuente definitiva: ¿Playfair Display o preferís una serif más parecida a la del escudo (Times)?
+3. ~~Fuente definitiva~~ **Resuelto: Playfair Display Bold** (títulos) + Open Sans ExtraBold (subtítulos).
 4. ~~Escudo con fondo transparente~~ **Resuelto:** el PNG recibido (1250×1250) es transparente fuera del círculo. Guardado en `assets/escudo.png`; pantalla de cierre lista en `assets/cierre_1080x1920.png` (fondo `#0A3D12`, escudo centrado). Para mejor calidad en pantalla grande, conseguir el vectorial (SVG/PDF) del escudo.
