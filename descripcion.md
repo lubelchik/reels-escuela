@@ -11,7 +11,7 @@ Una propuesta que destaca la necesidad de actuar a tiempo, promover el respeto e
 ✍️ Autores de 3.º 3.ª:
 Miguel Ordóñez · Yandel Quispe · Jhonatan Morán · Samuel Torres · Dylan Sánchez · Stefano Guzmán.
 
-🤝 Con la colaboración de Erwin Ortega, alumno de 3.º 5.ª.
+🤝 Con la colaboración de un alumno de 3.º 5.ª.
 
 💬 Si te pasa o ves que le pasa a alguien: hablá con un adulto de confianza o con el equipo de orientación de la escuela. También podés llamar a la Línea 102 (niñez y adolescencia).
 
@@ -23,7 +23,7 @@ Miguel Ordóñez · Yandel Quispe · Jhonatan Morán · Samuel Torres · Dylan S
 ---
 
 ## Antes de publicar
-- Autorización firmada de las familias para publicar el video **y para nombrar a cada estudiante** (autores y colaborador).
+- Autorización firmada de las familias para publicar el video **y para nombrar a los seis autores de 3.º 3.ª**.
 - Verificar que la Línea 102 y los canales de ayuda de Mendoza estén vigentes.
 - Visto bueno del equipo directivo.
 - Ajustes sobre el texto de la profesora: se agregó el bloque de ayuda y el cierre institucional; se unificó «3ro 3ra» como «3.º 3.ª».
