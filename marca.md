@@ -99,10 +99,24 @@ Cómo está hoy → cómo debería quedar.
 | 1:36–1:47 B/N escalera | 10 s | 4 s |
 | 1:47–2:10 Negro | 24 s | **Eliminar** |
 
+### Guion de tiempos para los 60 s
+
+| Tiempo | Contenido | Imagen | Música |
+|---|---|---|---|
+| 0:00–0:03 | Gancho: frase más fuerte de un estudiante | Color, cara en plano cercano | Entra tensión suave |
+| 0:03–0:06 | Escudo + lema (1,5 s) y título del reel | Fondo verde noche | «Ding» de marca |
+| 0:06–0:16 | Testimonios 1 y 2, cortes cada 3–4 s | Color, mural azul | Cama baja |
+| 0:16–0:26 | Escena B/N pasillo/celular + bicicletero, cortes cada 2 s | Blanco y negro | Tensión, 1 compás de silencio al final |
+| 0:26–0:30 | Pausa: emoji 🤔 (1 s) + pregunta en pantalla | Color | Silencio breve |
+| 0:30–0:45 | Testimonios de ayuda y soluciones (capucha, lentes, camisa roja) | Color, cortes cada 3–4 s | Sube a tono luminoso |
+| 0:45–0:52 | Escena B/N escalera → transición terracota a color | B/N → color | Sube |
+| 0:52–0:57 | Llamado: «Hablá con un adulto de confianza» + vía de ayuda | Texto crema sobre verde noche | Luminosa |
+| 0:57–1:00 | Cierre: escudo + nombre de la escuela + lema | Fondo `#0A3D12` | Se apaga |
+
 **Reglas del estilo:**
 
 1. **Gancho en los primeros 2–3 s:** empezar con la frase más fuerte de un estudiante, *antes* del escudo.
-2. **Duración objetivo:** 45–60 s para Reels/TikTok. El material actual (1:46) puede dar **dos piezas**: una de ~50 s y otra de ~50 s.
+2. **Duración definida: 1 pieza de 60 s** (decisión tomada). Se condensa el material de 1:46 en un solo reel; ver guion de tiempos abajo.
 3. **Cadencia:** un corte cada 2–4 s. Mantener el plano más largo en 5 s.
 4. **Transiciones:** corte directo. Una única transición de marca: **barrido horizontal en terracota** (0,3 s) entre color y B/N. Sin efectos de plantilla.
 5. **Lenguaje de color:** *Escena de ciberacoso = blanco y negro. Voz de estudiantes, soluciones y cierre = color.* Pasar de B/N a color con una transición suave marca el paso del problema a la salida.
@@ -135,7 +149,7 @@ Cómo está hoy → cómo debería quedar.
 
 ```
 FORMATO ....... 9:16 · 1080×1920 · 30 fps · MP4 H.264
-DURACIÓN ...... 45–60 s
+DURACIÓN ...... 60 s
 ABRE .......... frase fuerte (0–3 s) → escudo 1,5 s
 CUERPO ........ testimonios en color + escenas B/N, un corte cada 2–4 s
 CIERRA ........ fondo #0A3D12 + escudo + lema (3 s) + 1 llamado a la acción
@@ -160,7 +174,7 @@ EXPORTAR ...... sin marca de agua
 
 ## 9. Pendientes (decisiones tuyas)
 
-1. ¿Una pieza de 60 s o dos de ~50 s?
+1. ~~¿Una pieza de 60 s o dos de ~50 s?~~ **Resuelto: una pieza de 60 s.**
 2. ¿Cuenta oficial de la escuela o de un proyecto estudiantil? (cambia el tono del cierre)
 3. Fuente definitiva: ¿Playfair Display o preferís una serif más parecida a la del escudo (Times)?
 4. Archivo vectorial o PNG del escudo con fondo transparente (el actual tiene el aro verde y fondo blanco; para el cierre en verde noche conviene la versión sin fondo o dentro de un círculo blanco).
