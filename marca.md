@@ -177,4 +177,4 @@ EXPORTAR ...... sin marca de agua
 1. ~~¿Una pieza de 60 s o dos de ~50 s?~~ **Resuelto: una pieza de 60 s.**
 2. ¿Cuenta oficial de la escuela o de un proyecto estudiantil? (cambia el tono del cierre)
 3. Fuente definitiva: ¿Playfair Display o preferís una serif más parecida a la del escudo (Times)?
-4. Archivo vectorial o PNG del escudo con fondo transparente (el actual tiene el aro verde y fondo blanco; para el cierre en verde noche conviene la versión sin fondo o dentro de un círculo blanco).
+4. ~~Escudo con fondo transparente~~ **Resuelto:** el PNG recibido (1250×1250) es transparente fuera del círculo. Guardado en `assets/escudo.png`; pantalla de cierre lista en `assets/cierre_1080x1920.png` (fondo `#0A3D12`, escudo centrado). Para mejor calidad en pantalla grande, conseguir el vectorial (SVG/PDF) del escudo.
